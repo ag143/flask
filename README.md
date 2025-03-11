@@ -57,3 +57,4 @@ questions, and making PRs.
 - https://flask.palletsprojects.com/en/stable/quickstart/
 - https://github.com/ag143/django-realworld-example-app
 - https://github.com/ckrybus/real-world-django
+- https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world
