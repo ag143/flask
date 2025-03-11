@@ -52,5 +52,6 @@ questions, and making PRs.
 
 
 # References
-https://flask.palletsprojects.com/en/stable/
-https://forum.codeselfstudy.com/t/flask-python-web-development/1099
+- https://flask.palletsprojects.com/en/stable/
+- https://forum.codeselfstudy.com/t/flask-python-web-development/1099
+- https://flask.palletsprojects.com/en/stable/quickstart/
