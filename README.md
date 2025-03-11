@@ -55,3 +55,4 @@ questions, and making PRs.
 - https://flask.palletsprojects.com/en/stable/
 - https://forum.codeselfstudy.com/t/flask-python-web-development/1099
 - https://flask.palletsprojects.com/en/stable/quickstart/
+- https://github.com/ag143/django-realworld-example-app
